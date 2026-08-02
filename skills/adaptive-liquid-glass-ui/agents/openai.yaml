@@ -1,0 +1,7 @@
+interface:
+  display_name: "Adaptive Liquid Glass UI"
+  short_description: "Adapt Apple-like glass UI to any color"
+  default_prompt: "Use $adaptive-liquid-glass-ui to adapt this interface with restrained, color-aware Apple-inspired glass."
+
+policy:
+  allow_implicit_invocation: true
