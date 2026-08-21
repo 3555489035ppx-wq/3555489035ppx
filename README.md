@@ -37,7 +37,7 @@ Turns photos, music, stories, and relationships into a local-first spatial memor
 
 Builds material hierarchy, contrast, responsive states, and accessible fallbacks without turning every surface into a translucent card.
 
-[Skill package](skills/adaptive-liquid-glass-ui) · [Repository](https://github.com/3555489035ppx-wq/3555489035ppx)
+[Skill package](https://github.com/3555489035ppx-wq/glass-ui-skill/tree/main/adaptive-liquid-glass-ui) · [Repository](https://github.com/3555489035ppx-wq/glass-ui-skill)
 
 ## What I Work Across
 
