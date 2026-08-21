@@ -1,51 +1,64 @@
-# Adaptive Liquid Glass UI
+# AI Product Designer
 
-> A color-aware, Apple-inspired Liquid Glass Skill for Codex.
+Building AI-powered products
+from concept to working prototype.
 
-This repository contains one focused Skill for designing restrained, adaptive glass interfaces. It helps a glass surface respond to its host instead of forcing every screen into the same blue-gray overlay.
+I design products where product strategy, AI behavior, UX, UI, and implementation reinforce each other. My focus is not “AI-looking UI”; it is making AI useful, explainable, and part of a real user flow.
 
-## What it does
+## Featured Projects
 
-- Derives tint, fill, edge highlight, shadow, blur, and text contrast from the current color context.
-- Adapts across dark, light, warm, cool, saturated, monochrome, and image-based backgrounds.
-- Separates canvas, cards, controls, navigation, overlays, and selected states into a material hierarchy.
-- Covers responsive layout, keyboard focus, pressed states, reduced transparency, and no-backdrop-filter fallbacks.
-- Guards against over-blur, bright full borders, unreadable translucent text, fake refraction, and repetitive glass cards.
+### 01 · Muse AI
 
-## Use with Codex
+**AI Creative Decision Workspace**
 
-Copy `skills/adaptive-liquid-glass-ui` into your Codex skills directory, then invoke it with:
+Turns ambiguous product briefs into a traceable chain of research, insights, direction comparison, concepts, and design decisions.
 
-```text
-Use $adaptive-liquid-glass-ui to refine this interface for a warm image background while keeping the glass restrained and the content readable.
-```
+[Live Demo](https://muse-ai-workspace.vercel.app/) · [Repository](https://github.com/3555489035ppx-wq/muse-ai-workspace)
 
-It is useful for glass buttons, cards, toolbars, tabs, popovers, modals, and reusable CSS token systems that need to work across multiple brand colors.
+### 02 · AI Learning Planner
 
-## Package structure
+**AI Personal Learning System**
 
-```text
-skills/
-鈹斺攢鈹€ adaptive-liquid-glass-ui/
-    鈹溾攢鈹€ SKILL.md
-    鈹溾攢鈹€ agents/openai.yaml
-    鈹斺攢鈹€ references/adaptive-liquid-glass.md
-```
+Turns scores, goals, time constraints, and execution evidence into an explainable, recoverable holiday learning plan.
 
-The Skill is intentionally self-contained: no application code, screenshots, product assets, or unrelated project files are included.
+[Live Demo](https://ai-learning-planner-sepia.vercel.app/plan) · [Repository](https://github.com/3555489035ppx-wq/ai-learning-planner)
 
-## Design principles
+### 03 · Memory Universe
 
-1. Read the host background before choosing the glass tint.
-2. Use translucency to establish hierarchy, not to decorate every surface.
-3. Keep text and controls crisp above the glass treatment.
-4. Let edge highlights, depth, and blur stay quiet until the context needs emphasis.
-5. Provide an accessible opaque fallback whenever transparency is unavailable or reduced.
+**Emotional Memory Experience Platform**
 
-## Validation
+Turns photos, music, stories, and relationships into a local-first spatial memory experience.
 
-Run the official Codex Skill validator against the package directory:
+[Live Demo](https://memory-universe-two.vercel.app/universe?source=demo) · [Repository](https://github.com/3555489035ppx-wq/memory-universe)
+
+### 04 · Adaptive Liquid Glass UI
+
+**Codex Skill for restrained, context-aware glass interfaces**
+
+Builds material hierarchy, contrast, responsive states, and accessible fallbacks without turning every surface into a translucent card.
+
+[Skill package](https://github.com/3555489035ppx-wq/glass-ui-skill/tree/main/adaptive-liquid-glass-ui) · [Repository](https://github.com/3555489035ppx-wq/glass-ui-skill)
+
+## What I Work Across
 
 ```text
-python quick_validate.py skills/adaptive-liquid-glass-ui
+Problem framing → User research → Product strategy → AI workflow → UX/UI → Frontend → Testing → Deployment → Case study
 ```
+
+## AI Product Principles
+
+- AI must enter the core user flow, not sit in a decorative chat panel.
+- Every AI feature has an input, context, processing step, output, interaction, state, persistence rule, and next step.
+- Users can inspect, edit, reject, confirm, and undo meaningful AI decisions.
+- A deterministic prototype is labeled as a prototype; it is never presented as a live model result.
+- Product value comes before feature count and visual effects.
+
+## Selected Case Study Questions
+
+- How can a design tool preserve the reasoning behind a direction, not only the final image?
+- How can a learning planner explain priority and recover from real interruptions?
+- How can a memory product use spatial interaction while respecting local privacy?
+
+## About This Repository
+
+This profile repository keeps the reusable Adaptive Liquid Glass UI Skill and its references. The skill is intentionally self-contained and does not include application code or private product assets.
