@@ -13,7 +13,7 @@ I design products where product strategy, AI behavior, UX, UI, and implementatio
 
 Turns ambiguous product briefs into a traceable chain of research, insights, direction comparison, concepts, and design decisions.
 
-[Live Demo](https://muse-ai-workspace.vercel.app/projects/f1000000-0000-4000-8000-000000000104/workspace) · [Repository](https://github.com/3555489035ppx-wq/muse-ai-workspace)
+[Live Demo](https://muse-ai-workspace.vercel.app/) · [Repository](https://github.com/3555489035ppx-wq/muse-ai-workspace)
 
 ### 02 · AI Learning Planner
 
@@ -21,7 +21,7 @@ Turns ambiguous product briefs into a traceable chain of research, insights, dir
 
 Turns scores, goals, time constraints, and execution evidence into an explainable, recoverable holiday learning plan.
 
-[Live Demo](https://ai-learning-planner-sepia.vercel.app/plan) · [Repository](https://github.com/3555489035ppx-wq/ai-learning-planner)
+[Live Demo](https://ai-learning-planner-sepia.vercel.app/) · [Repository](https://github.com/3555489035ppx-wq/ai-learning-planner)
 
 ### 03 · Memory Universe
 
@@ -29,7 +29,7 @@ Turns scores, goals, time constraints, and execution evidence into an explainabl
 
 Turns photos, music, stories, and relationships into a local-first spatial memory experience.
 
-[Live Demo](https://memory-universe-two.vercel.app/universe?source=demo) · [Repository](https://github.com/3555489035ppx-wq/memory-universe)
+[Live Demo](https://memory-universe-two.vercel.app/) · [Repository](https://github.com/3555489035ppx-wq/memory-universe)
 
 ### 04 · Adaptive Liquid Glass UI
 
