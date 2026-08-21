@@ -13,7 +13,7 @@ I design products where product strategy, AI behavior, UX, UI, and implementatio
 
 Turns ambiguous product briefs into a traceable chain of research, insights, direction comparison, concepts, and design decisions.
 
-[Live Demo](https://muse-ai-workspace.vercel.app/) · [Repository](https://github.com/3555489035ppx-wq/muse-ai-workspace)
+[Live Demo](https://muse-ai-workspace.vercel.app/projects/f1000000-0000-4000-8000-000000000104/workspace) · [Repository](https://github.com/3555489035ppx-wq/muse-ai-workspace)
 
 ### 02 · AI Learning Planner
 
